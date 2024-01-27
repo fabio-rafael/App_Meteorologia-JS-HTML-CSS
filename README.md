@@ -32,4 +32,4 @@ Apresentação Gráfica dos Dados:
 Utilização de HTML e CSS para criar uma interface simples e intuitiva que exibe as informações de clima.
 
 
-[![Demo]([https://<SEU_PERMALINK>](https://65b4ee8fc23cc3960429ba7e--meteo-app-fabio-rafael.netlify.app/)https://65b4ee8fc23cc3960429ba7e--meteo-app-fabio-rafael.netlify.app/)
+[![Demo](https://65b4ee8fc23cc3960429ba7e--meteo-app-fabio-rafael.netlify.app/)
