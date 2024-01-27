@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-pt">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>App de Meteorologia</title>
+  <link rel="icon" href="/Icones/weather-forecast.png" type="image/x-icon">
+  <link rel="stylesheet" href="/Styles/styles.css">
+  <script src="main.js"></script>
+</head>
+<body>
+  <div class ="container">
+    <h1>Previsão de tempo </h1>
+    <input type="text" class="location" placeholder="Insira o nome da cidade">
+    <button id="search" onclick="buttonClick()">Procurar</button>
+    <div class="erro">
+      <p>Nome de cidade inválido</p>
+    </div>
+    <h2 class="local" class="local">Porto <img class="bandeira" src="https://flagsapi.com/PT/flat/24.png"></h2>
+    <div class="info">
+          <div class="info-temp">
+            <p class="temperatura">21 ºC</p>
+            <p class="descricao">Nublado</p>
+            <p class="humidade">Humidade : 70%</p>
+          </div>
+          <div class="imagens-temp">
+            <img class=icon src="/Icones/Icones/w_ic_d_01danim.svg">
+          </div>
+    </div>
+  </div>
+</body>
+</html>
